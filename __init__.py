@@ -1,1 +1,1 @@
-name='pixel-cnn-pp'
+name='pixelcnn'
