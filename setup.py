@@ -1,5 +1,5 @@
 import setuptools
 
 setuptools.setup(
-        name='pixel-cnn-pp',
+        name='pixelcnn',
         version='0.0.1')
